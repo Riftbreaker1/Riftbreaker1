@@ -8,4 +8,4 @@
 
 - Balatro crafting mod 
 - Brazilian Drug Dealer 3 PSP Port
-- Pico 8 mini games
+- Whatsapp bot using web.js
