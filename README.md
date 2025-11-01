@@ -4,9 +4,8 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Riftbreaker1&layout=compact&theme=dark&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&border_color=30363d" alt="Top Languages" />
 </div>
 
-## W.I.P Projects
+## What to expect from me in the future
 
 - Balatro crafting mod 
-- Brazilian Drug Dealer 3 PSP Port
 - Whatsapp bot using web.js
 - Flash/school game hackers or solvers
