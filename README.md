@@ -9,3 +9,4 @@
 - Balatro crafting mod 
 - Brazilian Drug Dealer 3 PSP Port
 - Whatsapp bot using web.js
+- Flash/school game hackers or solvers
