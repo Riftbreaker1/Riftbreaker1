@@ -7,5 +7,5 @@
 ## What to expect from me in the future
 
 - Balatro crafting mod 
-- Whatsapp bot using web.js
+- Custom keyboard mod
 - Flash/school game hackers or solvers
