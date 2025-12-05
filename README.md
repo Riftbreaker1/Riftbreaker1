@@ -7,5 +7,5 @@
 ## What to expect from me in the future
 
 - Balatro crafting mod 
-- Custom keyboard mod
+- Programs using n2y0's api
 - Flash/school game hackers or solvers
