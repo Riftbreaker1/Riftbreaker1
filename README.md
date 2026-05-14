@@ -9,13 +9,13 @@
   <img height=200 align="center" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Riftbreaker1&layout=compact&theme=dark&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d1&border_color=00363d" alt="Top Languages:" />
 </div>
 
-## What to expect / What I do
+## My Projects
   
 - Balatro crafting framework  
-[![Mod](./balala.webp)](https://github.com/Riftbreaker1/Craftworks-balatro)
+https://github.com/Riftbreaker1/Craftworks-balatro
 
 - Programs using n2y0's api   
- [![geobet](./geobet.png)](https://github.com/Riftbreaker1/Geobet)
+ https://github.com/Riftbreaker1/Geobet
 
 - Flash/school game hackers or solvers  
- [![Image](./typer.png)](https://github.com/Riftbreaker1/Nitrotype-hacker)
+https://github.com/Riftbreaker1/Nitrotype-hacker
