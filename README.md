@@ -14,8 +14,9 @@
 - Balatro crafting framework  
 https://github.com/Riftbreaker1/Craftworks-balatro
 
-- Programs using n2y0's api   
+- Satellite tracking projects   
  https://github.com/Riftbreaker1/Geobet
+ https://github.com/Riftbreaker1/Simple-PassTrack
 
-- Flash/school game hackers or solvers  
+- Flash game solver
 https://github.com/Riftbreaker1/Nitrotype-hacker
