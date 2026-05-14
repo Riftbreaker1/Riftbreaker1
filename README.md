@@ -1,7 +1,7 @@
 
 <p align="left">
   <a href="https://arloharvey.me">
-    <img src="https://skillicons.dev/icons?i=py,linux,md,lua,js&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=py,linux,md,lua,bash,js&theme=dark" />
   </a>
 </p>
 
