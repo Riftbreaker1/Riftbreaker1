@@ -20,3 +20,6 @@ https://github.com/Riftbreaker1/Craftworks-balatro
 
 - Flash game solver   
 https://github.com/Riftbreaker1/Nitrotype-hacker
+
+maybe one day ill push to git.
+prolly not tho. lol
